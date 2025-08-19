@@ -1,5 +1,5 @@
 {
-	"id": "ModBusServer",
+	"id": "companion-module-modbus2-server",
 	"name": "ModBus Server",
 	"shortname": "ModBus Server",
 	"description": "modbus Server",
