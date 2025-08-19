@@ -5,8 +5,8 @@
 	"description": "modbus Server",
 	"version": "1.0.2",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-modbus-Server.git",
-	"bugs": "https://github.com/bitfocus/companion-module-modbus-Server/issues",
+	"repository": "git+https://github.com/MishuBurceag/companion-module-modbus2-server.git",
+	"bugs": "https://https://github.com/MishuBurceag/companion-module-modbus2-server/issues",
 	"maintainers": [
 		{
 			"name": "modbus-server",
