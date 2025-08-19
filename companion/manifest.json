@@ -1,0 +1,26 @@
+{
+	"id": "ModBusServer",
+	"name": "ModBus Server",
+	"shortname": "ModBus Server",
+	"description": "modbus Server",
+	"version": "1.0.2",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-modbus-Server.git",
+	"bugs": "https://github.com/bitfocus/companion-module-modbus-Server/issues",
+	"maintainers": [
+		{
+			"name": "modbus-server",
+			"email": "Youremail@local"
+		}
+	],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../main.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "AG",
+	"products": ["ModBus Server"],
+	"keywords": []
+}
